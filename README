@@ -2,7 +2,9 @@ MimetypeFu
 ==========
 
 #
-# NOTICE: I am So Awesome Man! I'm just forking this to put on gemcutter... the designated maintainer can have the namespace over there whenever (I want to make a few changes for my convenience too)
+# NOTICE: I am So Awesome Man! I'm just forking this to put on gemcutter... 
+# the designated maintainer can have the namespace over there whenever 
+# (I want to make a few changes for my convenience too)
 #
 
 Some great Rails plugins like attachment_fu use the content type/mime type of a file to validate the instance of an object.

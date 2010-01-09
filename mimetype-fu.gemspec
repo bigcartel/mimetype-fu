@@ -10,13 +10,16 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Josh French"]
   s.date = %q{2010-01-08}
-  s.description = %q{get the mimetype of a file directly in Ruby}
+  s.description = %q{get the mimetype of a file directly in Ruby
+NOTICE: I am So Awesome Man! I'm just forking this to put on gemcutter... the designated maintainer can have the 
+    namespace whenever}
   s.email = %q{josh@vitamin-j.com}
   s.extra_rdoc_files = [
     "README"
   ]
   s.files = [
-    "MIT-LICENSE",
+    ".gitignore",
+     "MIT-LICENSE",
      "README",
      "Rakefile",
      "VERSION",
@@ -35,7 +38,7 @@ Gem::Specification.new do |s|
      "test/mimetype_fu_test.rb",
      "uninstall.rb"
   ]
-  s.homepage = %q{http://github.com/jfrench/mimetype-fu}
+  s.homepage = %q{http://github.com/awesome/mimetype-fu}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
