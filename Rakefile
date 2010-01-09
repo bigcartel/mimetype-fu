@@ -8,9 +8,10 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "mimetype-fu"
     gem.summary = "get the mimetype of a file directly in Ruby"
-    gem.description = "get the mimetype of a file directly in Ruby"
+    gem.description = "get the mimetype of a file directly in Ruby\nNOTICE: I am So Awesome Man! I'm just forking this to put on gemcutter... the designated maintainer can have the 
+    namespace whenever"
     gem.email = "josh@vitamin-j.com"
-    gem.homepage = "http://github.com/jfrench/mimetype-fu"
+    gem.homepage = "http://github.com/awesome/mimetype-fu"
     gem.authors = ["Josh French"]
   end
 
