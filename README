@@ -1,6 +1,10 @@
 MimetypeFu
 ==========
 
+#
+# NOTICE: I am So Awesome Man! I'm just forking this to put on gemcutter... the designated maintainer can have the namespace overthere whenever (I want to make a few changes for my convenience too)
+#
+
 Some great Rails plugins like attachment_fu use the content type/mime type of a file to validate the instance of an object.
 The plugin usually gets the mime type using the CGI request, however, if the file is already in the system, this approach won't work.
 Adobe Flash is also known not to send the proper mime type.
