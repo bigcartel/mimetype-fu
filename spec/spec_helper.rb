@@ -37,6 +37,6 @@ end
 
 def it_should_have_a_mime_type_of(mimetype)
   it "should have a mime type of #{mimetype}" do
-    File.mime_type?(@file).should == mimetype
+    File.mime_type(@file).should == mimetype
   end
 end
