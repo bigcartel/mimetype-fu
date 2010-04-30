@@ -9,6 +9,7 @@
 7z: application/x-7z-compressed
 a: application/x-archive
 aac: audio/mp4
+abr: application/x-photoshop
 abw: application/x-abiword
 ac3: audio/ac3
 ace: application/x-ace
@@ -21,6 +22,7 @@ ai: application/illustrator
 aif: audio/x-aiff
 aifc: audio/x-aiff
 aiff: audio/x-aiff
+air: application/vnd.adobe.air-application-installer-package+zip
 al: application/x-perl
 ami: application/vnd.amiga.ami
 amr: audio/AMR
@@ -31,6 +33,7 @@ arw: image/x-sony-arw
 as: application/x-applix-spreadsheet
 asc: application/pgp-encrypted
 asf: video/x-ms-asf
+asl: application/x-photoshop
 asp: application/x-asp
 ass: text/x-ssa
 asx: audio/x-ms-asx
@@ -111,6 +114,7 @@ divx: video/x-msvideo
 djv: image/vnd.djvu
 djvu: image/vnd.djvu
 dl: video/dl
+dmg: application/octet-stream
 dms: application/octet-stream
 dng: image/x-adobe-dng
 doc: application/msword
@@ -140,6 +144,7 @@ eol: audio/vnd.digital-winds
 eps: image/x-eps
 epsf: image/x-eps
 epsi: image/x-eps
+epub: application/epub+zip
 erb: text/rhtml
 erl: text/x-erlang
 es: application/ecmascript
@@ -181,6 +186,7 @@ gp: application/x-gnuplot
 gpg: application/pgp-encrypted
 gplt: application/x-gnuplot
 gra: application/x-graphite
+grd: application/x-photoshop
 gsf: application/x-font-type1
 gtar: application/x-tar
 gvp: text/x-google-video-pointer
@@ -252,6 +258,7 @@ karbon: application/x-karbon
 kcm: application/vnd.nervana
 kdc: image/x-kodak-kdc
 kdelnk: application/x-desktop
+key: application/keynote
 kfo: application/x-kformula
 kia: application/vnd.kidspiration
 kil: application/x-killustrator
@@ -364,6 +371,7 @@ nfo: text/x-readme
 nim: video/vnd.nokia.interleaved-multimedia
 not: text/x-mup
 nsc: application/x-netshow-channel
+nsf: application/octet-stream
 nsv: video/x-nsv
 o: application/x-object
 obj: application/x-tgif
@@ -400,6 +408,7 @@ p12: application/x-pkcs12
 p7c: application/pkcs7-mime
 p7m: application/pkcs7-mime
 p7s: application/pkcs7-signature
+pages: application/x-iwork-pages-sffpages
 pak: application/x-pak
 par2: application/x-par2
 pas: text/x-pascal
@@ -732,6 +741,7 @@ wqd: application/vnd.wqd
 wri: application/x-mswrite
 wrl: x-world/x-vrml
 wtb: application/vnd.webturbo
+wtf: text/plain
 wv: audio/x-wavpack
 wvc: audio/x-wavpack-correction
 wvp: audio/x-wavpack
@@ -778,5 +788,3 @@ z: application/x-compressed
 zabw: application/x-abiword
 zip: application/zip
 zoo: application/x-zoo
-dmg: application/octet-stream
-abr: application/x-photoshop
