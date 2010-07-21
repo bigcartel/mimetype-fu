@@ -21,7 +21,7 @@ class File
       File.delete(temp.path)
     end
     
-    return mime || 'application/octet-stream'
+    return mime || 'unknown/unknown'
    end
 
   def self.extensions
