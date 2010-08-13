@@ -304,6 +304,7 @@ m3u: audio/x-mpegurl
 m4: application/x-m4
 m4a: audio/mp4
 m4b: audio/x-m4b
+m4p: audio/mp4
 m4u: video/vnd.mpegurl
 m4v: video/mp4
 mab: application/x-markaby
