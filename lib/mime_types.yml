@@ -334,6 +334,7 @@ mmf: application/vnd.smaf
 mml: text/mathml
 mng: video/x-mng
 mo: application/x-gettext-translation
+mobi: application/x-mobipocket
 moc: text/x-moc
 mod: audio/x-mod
 moov: video/quicktime
