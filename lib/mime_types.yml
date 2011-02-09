@@ -38,6 +38,7 @@ asp: application/x-asp
 ass: text/x-ssa
 asx: audio/x-ms-asx
 atc: application/vnd.acucorp
+atn: application/x-photoshop
 atom: application/atom+xml
 au: audio/basic
 avi: video/x-msvideo
