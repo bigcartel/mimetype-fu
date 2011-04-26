@@ -528,6 +528,7 @@ rss: application/rss+xml
 rst: text/prs.fallenstein.rst
 rt: text/vnd.rn-realtext
 rtf: application/rtf
+rtfd: application/octet-stream
 rtx: text/richtext
 rxml: application/x-ruby
 rv: video/vnd.rn-realvideo
